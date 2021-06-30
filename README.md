@@ -5,11 +5,19 @@ This package contains complete Artificial Neural Network and Optimization method
 
 
 Stepts followed in solving the probles are as follows, 
-Import all the necessery libraries
-Import the dataset
-Perform Exploratory Data Analysis
-Feature Engineering 
-Building a model
-Training the model
-Checking the validation score 
-Testing the model
+
+Import all the necessery libraries,
+
+Import the dataset,
+
+Perform Exploratory Data Analysis,
+
+Feature Engineering,
+
+Building a model,
+
+Training the model,
+
+Checking the validation score,
+
+Testing the model.
